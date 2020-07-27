@@ -35,6 +35,12 @@ main {
   width: calc(100vw - 200px);
   overflow: scroll;
 }
+
+strong {
+  font-weight: bold;
+  color: #F25937;
+}
+
 nav {
   background-color: #313131;
   height: 100vh;
