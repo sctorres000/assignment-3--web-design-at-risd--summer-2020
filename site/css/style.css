@@ -15,6 +15,13 @@ img {
   z-index: -1;
 
 }
+
+body {
+  width: 100vw;
+  border-style: solid;
+  min-height: 100vh;
+}
+
 header {
   margin-left: 150px;
   margin-bottom: 150px;
