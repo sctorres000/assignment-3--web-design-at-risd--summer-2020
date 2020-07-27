@@ -41,6 +41,14 @@ strong {
   color: #F25937;
 }
 
+h1 {
+  background-color: transparent;
+  font-family: 'Raleway', serif;
+  font-weight: bold;
+  font-size: 112px;
+  letter-spacing: -1.12px;
+  color: #F25937;
+}
 nav {
   background-color: #313131;
   height: 100vh;
