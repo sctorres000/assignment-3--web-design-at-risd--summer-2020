@@ -45,3 +45,8 @@ a:hover, a:active, a:focus {
   color: #F25937;
 }
 
+#header2 {
+  text-align: center;
+  margin: 0;
+}
+
